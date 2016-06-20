@@ -4,9 +4,6 @@ Prof. Hyungsoo Jung
 Asst. Junghwan Kim, Junggeun Ahn
 
 
-
-
-## 아! 그문제 뭐였지! ##
 ### 0610 ###
 quiz1 값 제곱 (Call by value, Call by reference)
 
